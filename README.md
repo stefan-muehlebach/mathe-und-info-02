@@ -7,6 +7,6 @@ Auf dieser Seite findet ihr die Dateien aus der zweiten "Mathe & Info"-Übung. D
 * ``PolyTest.py`` -- Testprogramm für Python (auf der 6. Zeile muss der Name der Files mit der Implementation angegeben werden)
 * ``PolynomM.cs`` -- Eigene, komplette Lösung in C#
 * ``PolynomM.py`` -- Eigene, _unvollständige_ Lösung (die Methode ``add()`` ist nicht vollständig!)
-* ``PolynomX.cs/py`` -- Eure Lösungen, angepasst während der Lektion.]
+* ``PolynomX.cs/py`` -- Eure Lösungen, angepasst während der Lektion.
 
 Ich würde mich natürlich mächtig freuen, wenn einige von euch den Versuch wagen, und die eigene Lösung soweit anpassen, dass das Testprogramm damit läuft. Diskussionen zu den Implementationsdetails sind *sehr* willkommen -- via GitHub oder Teams.

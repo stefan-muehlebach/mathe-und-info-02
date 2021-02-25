@@ -9,4 +9,6 @@ Auf dieser Seite findet ihr die Dateien aus der zweiten "Mathe & Info"-Übung. D
 * ``PolynomM.py`` -- Eigene, _unvollständige_ Lösung (die Methode ``add()`` ist nicht vollständig!)
 * ``PolynomX.cs/py`` -- Eure Lösungen, angepasst während der Lektion.
 
-Ich würde mich natürlich mächtig freuen, wenn einige von euch den Versuch wagen, und die eigene Lösung soweit anpassen, dass das Testprogramm damit läuft. Diskussionen zu den Implementationsdetails sind *sehr* willkommen -- via GitHub oder Teams.
+Ich würde mich natürlich mächtig freuen, wenn einige von euch den Versuch wagen, und die eigene Lösung soweit anpassen, dass das Testprogramm damit läuft. Diskussionen zu den Implementationsdetails sind *sehr* willkommen - via GitHub oder Teams.
+
+Auch wenn ihr Verbesserungen oder Fehler im Testprogramm sowie meinen Implementationen findet, würde mich die Diskussion sehr freuen.
